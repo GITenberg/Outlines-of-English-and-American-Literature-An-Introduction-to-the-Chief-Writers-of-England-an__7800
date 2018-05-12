@@ -1,4 +1,8 @@
 _repo: Outlines-of-English-and-American-Literature-An-Introduction-to-the-Chief-Writers-of-England-an__7800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Long, William J. (William Joseph)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/744
     wikipedia: http://en.wikipedia.org/wiki/William_Joseph_Long_(author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7800#Outlines-of-English-and-American-Literature-An-Introduction-to-the-Chief-Writers-of-England-an_
 gutenberg_issued: '2005-03-01'
 gutenberg_type: Text
 identifiers:
